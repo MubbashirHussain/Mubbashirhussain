@@ -1,25 +1,11 @@
-### Hi there 👋
-
-<!--
-**MubbashirHussain/Mubbashirhussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+        
+  <foreignObject width="100%" height="100%">
+          
 <style>
         body {
             font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
         }
-
         .Icon-ul {
             display: flex;
             /* flex-wrap: wrap; */
@@ -37,17 +23,14 @@ Here are some ideas to get you started:
         .Icon-ul::-webkit-scrollbar-track {
             background-color:#0d1117;
         }
-
         .Icon-ul::-webkit-scrollbar {
             height: 7px;
             background-color: #F5F5F5;
         }
-
         .Icon-ul::-webkit-scrollbar-thumb {
             border-radius: 10px;
             background-color: #172030;
         }
-
         .Icon-li {
             height: 70px;
             min-width: 60px;
@@ -65,7 +48,6 @@ Here are some ideas to get you started:
                 height:40px;
                 width:40px;
             }
-            
             & span{
                 font-size: 15px;
                 font-weight: 550;
@@ -343,3 +325,7 @@ Others :
 Contribution : 🟩🟩🟩 🐉
 
 ```
+
+
+  </foreignObject>
+</svg>
