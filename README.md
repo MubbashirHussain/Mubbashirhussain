@@ -8,9 +8,12 @@
 #
 
 <!-- <h3 align="center"> 🏆 GitHub Trophies 🏆</h3> -->
+<div align="center">
 
-[<p align="center"><img src="https://github-trophies.vercel.app/?username=mubbashirhussain&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=7&margin-h=7" alt="mubbashirhussain" /></p>](https://github.com/MubbashirHussain#gh-dark-mode-only)
-[<p align="center"><img src="https://github-trophies.vercel.app/?username=mubbashirhussain&theme=light&no-frame=true&no-bg=false&margin-w=7&margin-h=7" alt="mubbashirhussain" /></p>](https://github.com/MubbashirHussain#gh-light-mode-only)
+[![Typing SVG](https://github-trophies.vercel.app/?username=mubbashirhussain&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=7&margin-h=7)](https://github.com/MubbashirHussain#gh-dark-mode-only)
+[![Typing SVG](https://github-trophies.vercel.app/?username=mubbashirhussain&theme=light&no-frame=true&no-bg=false&margin-w=7&margin-h=7)](https://github.com/MubbashirHussain#gh-light-mode-only)
+
+</div>
 
 ```js
 
@@ -74,11 +77,11 @@ Others :
 
 | streakes                                                                                                                                                                                                                                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![](https://github-readme-streak-stats.herokuapp.com/?user=mubbashirhussain&theme=react&hide_border=true)](https://github.com/MubbashirHussain/#gh-dark-mode-only) [![](https://github-readme-streak-stats.herokuapp.com/?user=mubbashirhussain&theme=react&hide_border=true)](https://github.com/MubbashirHussain/#gh-light-mode-only) |
+| [![](https://github-readme-streak-stats.herokuapp.com/?user=mubbashirhussain&theme=react&hide_border=true)](https://github.com/MubbashirHussain/#gh-dark-mode-only) [![](https://github-readme-streak-stats.herokuapp.com/?user=mubbashirhussain&theme=buefy&hide_border=true)](https://github.com/MubbashirHussain/#gh-light-mode-only) |
 
 | Github Stats                                                                                                                                                                                                                                                                                                                                                                                           | Top Langs                                                                                                                                                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api?username=mubbashirhussain&rank_icon=github&theme=react&include_all_commits=fasle)](https://github.com/MubbashirHussain#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api?username=mubbashirhussain&rank_icon=github&theme=react&include_all_commits=fasle)](https://github.com/MubbashirHussain#gh-light-mode-only) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mubbashirhussain&layout=donut&theme=react)](https://github.com/MubbashirHussain#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mubbashirhussain&layout=donut&theme=react)](https://github.com/MubbashirHussain#gh-light-mode-only) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api?username=mubbashirhussain&rank_icon=github&theme=react&hide_border=true&include_all_commits=fasle)](https://github.com/MubbashirHussain#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api?username=mubbashirhussain&rank_icon=github&theme=buefy&hide_border=true&include_all_commits=fasle)](https://github.com/MubbashirHussain#gh-light-mode-only) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mubbashirhussain&layout=donut&theme=react&hide_border=true)](https://github.com/MubbashirHussain#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mubbashirhussain&layout=donut&theme=buefy&hide_border=true)](https://github.com/MubbashirHussain#gh-light-mode-only) |
 
 </div>
 
