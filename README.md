@@ -16,7 +16,7 @@
 </div>
 
 ```js
-
+ ▶︎ •၊၊||၊|။||||။ 0:10
 ```
 
 `                              `
@@ -30,7 +30,7 @@
 <p align="left">
 
 ```js
-
+▶︎ •၊၊||၊|။||||။ 0:15
 ```
 
 # 👨🏻‍💻Technology
@@ -41,7 +41,7 @@ Frontend :
 
 <div align="center">
 
-[![](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,react,redux,tailwind,mui,md,git,github,&perline=)](https://github.com/MubbashirHussain/)
+[![](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,redux,tailwind,mui,md,git,github,&perline=)](https://github.com/MubbashirHussain/)
 
 </div>
 
@@ -68,7 +68,7 @@ Others :
 ---
 
 ```js
-
+▶︎ •၊၊||၊|။||||။ 0:20
 ```
 
 # 📈 GitHub Stats
