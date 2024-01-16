@@ -1,7 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=600&size=32&pause=0&color=fff&center=true&multiline=true&repeat=false&random=false&width=750&height=150&lines=Hi++%F0%9F%91%8B%F0%9F%8F%BB+I'm+Mubbashir+M.Hussain+;A+passionate+frontend+developer+from+pakistan;I+am+Learning+MEAR+Stack+Development)](https://github.com/MubbashirHussain#gh-dark-mode-only)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=600&size=32&pause=0&color=000&center=true&multiline=true&repeat=false&random=false&width=750&height=150&lines=Hi++%F0%9F%91%8B%F0%9F%8F%BB+I'm+Mubbashir+M.Hussain+;A+passionate+frontend+developer+from+pakistan;I+am+Learning+MEAR+Stack+Development#gh-light-mode-only)](https://github.com/MubbashirHussain#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=600&size=32&pause=0&color=fff&center=true&multiline=true&repeat=false&random=false&width=750&height=150&lines=Hi++%F0%9F%91%8B%F0%9F%8F%BB+I'm+Mubbashir+M.Hussain+;A+passionate+frontend+developer+from+pakistan;I+am+Learning+MERN+Stack+Development)](https://github.com/MubbashirHussain#gh-dark-mode-only)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=600&size=32&pause=0&color=000&center=true&multiline=true&repeat=false&random=false&width=750&height=150&lines=Hi++%F0%9F%91%8B%F0%9F%8F%BB+I'm+Mubbashir+M.Hussain+;A+passionate+frontend+developer+from+pakistan;I+am+Learning+MERN+Stack+Development#gh-light-mode-only)](https://github.com/MubbashirHussain#gh-light-mode-only)
 
 </div>
 
