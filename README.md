@@ -51,7 +51,7 @@ Frontend :
 
 <div align="center">
 
-[![](https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb,&perline=)](https://github.com/MubbashirHussain/)
+[![](https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb,mysql,&perline=)](https://github.com/MubbashirHussain/)
 
 </div>
 
